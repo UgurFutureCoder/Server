@@ -6,8 +6,8 @@ For Bar
 
 ## Running Locally
 ```js
-git clone https://github.com/UgurFutureCoder/Blog.git
-cd Blog
+git clone https://github.com/UgurFutureCoder/Server.git
+cd Server
 npm run dev
 ```
 
